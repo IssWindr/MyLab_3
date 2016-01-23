@@ -1,9 +1,16 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello
 =======
+=======
+>>>>>>> refs/heads/feature2
 H
 e
 l
 l
+<<<<<<< HEAD
+o
+>>>>>>> refs/heads/feature2
+=======
 o
 >>>>>>> refs/heads/feature2
