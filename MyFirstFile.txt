@@ -1,1 +1,9 @@
-Hello world!
+<<<<<<< HEAD
+Hello
+=======
+H
+e
+l
+l
+o
+>>>>>>> refs/heads/feature2
